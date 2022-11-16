@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/number_10773.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/number_1966.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Samsung/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Samsung/SW_2072.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/number_10773.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bubblesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samsung/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
