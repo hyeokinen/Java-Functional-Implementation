@@ -21,7 +21,9 @@ public class SW_1966 {
             System.out.print("#"+(test_case+1)+" ");
             for (int i = 0; i < N; i++){
                 System.out.print(array[i]+" ");
+
             }
+            System.out.println();
         }
 
 
