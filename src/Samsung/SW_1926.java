@@ -1,54 +1,34 @@
 package Samsung;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
 
+import java.util.Scanner;
+
+// 369 구하기 게임
 public class SW_1926 {
-    public static void main(String[] args) throws IOException {
-        List<Integer> list = new ArrayList<>();
+    public static void main(String[] args) {
 
+        Scanner sc = new Scanner(System.in);
 
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Enter the number");
-        int number = Integer.parseInt(bufferedReader.readLine());
+        int T = sc.nextInt();
 
-        for (int i = 1; i <= number; i++){
-            list.add(i);
+        for(int i = 1; i <= T; i++) {
+            int a = i / 10; // 몫
+            int b = i % 10; // 나머지
 
-            Iterator<Integer> iter = list.iterator();
-
-            while (iter.hasNext()){
-                int test = iter.next();
-                if (test == 3){
-                    list.set(i,0);
+            if( a == 3 || a == 6 || a == 9) {
+                if(b == 3|| b == 6 || b == 9) {
+                    System.out.print("-- ");
+                    continue;
                 }
-                else if (test == 6){
-                    list.set(i,0);
-                }
-                else if (test == 9){
-                    list.set(i,0);
-                }
+
+                System.out.print("- ");
+
+
             }
-            System.out.println(list);
+            else if (b == 3 || b == 6 || b== 9)
+                System.out.print("- ");
 
-
-        }
-
-
-    }
-
-
-
-
-
-//    static void game(int number){
-//        if (number)
-//    }
-
-
-
-}
+            else {
+                System.out.print(i+" ");
+            }
+        }}}
