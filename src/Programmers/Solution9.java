@@ -9,7 +9,7 @@ public class Solution9 {
     // 최소공배수 : (a ✕ b) / (최대공약수)
 
     public static void main(String[] args) {
-      
+
     }
 
 
