@@ -26,3 +26,8 @@ public class Solution11 {
     }
 
 }
+
+//    function solution(n) {
+//        return n % 7 === 0 ? Math.floor(n / 7) : Math.floor(n / 7) + 1;
+//    }
+//   삼항 연산자를 사용하기 좋은 문제이다.
