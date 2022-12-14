@@ -8,6 +8,10 @@ class Solution16 {
 
     public static void main(String[] args) {
         int money = 0;
+
+
+
+
         System.out.println("enter the money");
         Scanner scan = new Scanner(System.in);
         money = scan.nextInt();
@@ -22,6 +26,8 @@ class Solution16 {
             }
         }
         System.out.println(americano+" "+ money);
+
+
 
     }
 
