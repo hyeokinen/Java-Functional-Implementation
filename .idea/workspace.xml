@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Solution19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Solution20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Solution21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Solution18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Solution21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +75,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BaekJoon$Solution18.ic" NAME="Solution18 Coverage Results" MODIFIED="1671091350935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Programmers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BaekJoon$Solution21.ic" NAME="Solution21 Coverage Results" MODIFIED="1671104919026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Programmers.*</FILTER>
     </SUITE>
   </component>
