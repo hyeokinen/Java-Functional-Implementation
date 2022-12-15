@@ -15,7 +15,7 @@ public class Solution18 {
 
         // StringBuffer 자료형을 사용할수 있다.
         // String 자료형과는 다르기 때문에 다시 자료형을 바꾸고 싶다면 tostring을 사용하면 된다.
-        
+
         StringBuffer sb = new StringBuffer();
         sb.append("hello");
         sb.reverse();
