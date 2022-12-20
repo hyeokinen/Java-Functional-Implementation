@@ -9,6 +9,7 @@ public class Solution26 {
     public static void main(String[] args) {
         int numbers[] = new int[]{1,2,3,4,5};
 
+        
         int num1= 1;
         int num2= 3;
         int arrays[] = new int[num2];
