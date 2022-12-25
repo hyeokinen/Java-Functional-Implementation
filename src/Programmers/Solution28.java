@@ -11,6 +11,7 @@ public class Solution28 {
                 max = emergency[i+1];
             }
             System.out.println(max);
+            
         }
     }
 }
