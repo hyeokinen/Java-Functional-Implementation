@@ -12,7 +12,7 @@ public class Solution28 {
             }
             System.out.println(max);
 
-            
+
         }
     }
 }
