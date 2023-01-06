@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution40.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution1_plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution1_plus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution27_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution27_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution2_Share.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution2_Share.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Sort_Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
