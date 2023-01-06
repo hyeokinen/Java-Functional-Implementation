@@ -14,7 +14,7 @@ class Solution32 {
             result[i] = count;
         }
         return result;
-        
+
 
     }
 }
