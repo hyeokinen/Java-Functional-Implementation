@@ -10,6 +10,7 @@ public class Solution40 {
             if(i*i == n){
                 System.out.println("Have");
 
+
                 
             }
 
