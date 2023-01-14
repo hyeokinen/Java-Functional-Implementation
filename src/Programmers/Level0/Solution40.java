@@ -11,7 +11,7 @@ public class Solution40 {
                 System.out.println("Have");
 
 
-                
+
             }
 
         }
