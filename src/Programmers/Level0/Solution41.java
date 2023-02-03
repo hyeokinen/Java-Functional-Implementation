@@ -4,8 +4,16 @@ package Programmers.Level0;
 public class Solution41 {
 
 
-//    function solution(n) {
-//        return Math.sqrt(n) % 1 === 0 ? 1 : 2;
-//    }
+
+        public int solution(int n) {
+            int answer = 0;
+            Double sqrt = Math.sqrt(n);
+            if(sqrt == sqrt.intValue()) {
+                answer = 1;
+            } else {
+                answer = 2;
+            }
+            return answer;
+        }
 
 }
