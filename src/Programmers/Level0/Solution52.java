@@ -10,7 +10,7 @@ public class Solution52 {
         int n = scan.nextInt();
         System.out.println("시간을 입력하세요.");
         int t = scan.nextInt();
-        
+
         int count = n;
 
 
