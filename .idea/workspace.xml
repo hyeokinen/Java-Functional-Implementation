@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# decimalHap 문제 보완&#10;# while 문을 통해서 반복 조건 단순화">
-      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/GCD_LCM.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# GCD_LCM 알고리즘 문제 풀이&#10;# 최대공약수, 최소공배수의 개념을 파악하고 알고리즘 풀이">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/divisor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,14 +111,7 @@
       <workItem from="1682466999304" duration="7844000" />
       <workItem from="1682554991756" duration="6390000" />
       <workItem from="1682639734029" duration="2442000" />
-      <workItem from="1682986260615" duration="13298000" />
-    </task>
-    <task id="LOCAL-00017" summary="# Solution64 문자열 쪼개서 Set 사용&#10;# join을 활용하여 쪼갠 문자 다시 합침">
-      <created>1679976638879</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1679976638879</updated>
+      <workItem from="1682986260615" duration="14580000" />
     </task>
     <task id="LOCAL-00018" summary="# Solution66 문제풀이&#10;# 반복문과 List, 절대값을 활용하여 값 추출후 근사값  추출">
       <created>1680068716007</created>
@@ -456,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683007335460</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="# GCD_LCM 알고리즘 문제 풀이&#10;# 최대공약수, 최소공배수의 개념을 파악하고 알고리즘 풀이">
+      <created>1683008852989</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1683008852989</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution83 문제풀이&#10;# 규칙을 찾으면 쉬운 문제&#10;# / , % 사용하여서 문제풀이" />
     <MESSAGE value="# Solution84 문제풀이&#10;# toLowcase로 소문자로 변경, replaceAll로 특정문자 삭제" />
     <MESSAGE value="# Solution85 문제풀이&#10;# 반복문과 조건문의 규칙활용해서 간단하게 풀수있다." />
     <MESSAGE value="# Solution86 문제풀이&#10;# Rank 알고리즘을 활용하여 반복문과 조건문을 통해 등수를 구함" />
@@ -499,7 +498,8 @@
     <MESSAGE value="# sqrtDecimal 제곱근 활용 소수판별&#10;# 제곱근을 활용하여 소수를 판별할수 있다." />
     <MESSAGE value="# decimalHap 문제 풀이&#10;# 조건문과 반복문을 활용하여 소수만 판별후 전체합을 구했다." />
     <MESSAGE value="# decimalHap 문제 보완&#10;# while 문을 통해서 반복 조건 단순화" />
-    <option name="LAST_COMMIT_MESSAGE" value="# decimalHap 문제 보완&#10;# while 문을 통해서 반복 조건 단순화" />
+    <MESSAGE value="# GCD_LCM 알고리즘 문제 풀이&#10;# 최대공약수, 최소공배수의 개념을 파악하고 알고리즘 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="# GCD_LCM 알고리즘 문제 풀이&#10;# 최대공약수, 최소공배수의 개념을 파악하고 알고리즘 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
