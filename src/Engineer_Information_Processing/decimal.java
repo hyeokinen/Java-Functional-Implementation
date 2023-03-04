@@ -8,7 +8,6 @@ public class decimal {
             if (num % i == 0){
                 decimal++;
             }
-
         }
         if (decimal != 0 ){
             System.out.println("소수가 아닙니다.");
