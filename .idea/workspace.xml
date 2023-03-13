@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution60 문제 파악" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution60 문제 풀이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +69,7 @@
       <workItem from="1677125316687" duration="394000" />
       <workItem from="1677125778957" duration="188000" />
       <workItem from="1677125992903" duration="21567000" />
-      <workItem from="1678399154731" duration="582000" />
+      <workItem from="1678399154731" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678501073665</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="# Solution60 문제 풀이">
+      <created>1678616046826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678616046827</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +112,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# Solution50" />
     <MESSAGE value="# Solution60 문제 파악" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution60 문제 파악" />
+    <MESSAGE value="# Solution60 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution60 문제 풀이" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BaekJoon$Solution18.ic" NAME="Solution18 Coverage Results" MODIFIED="1671091350935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
