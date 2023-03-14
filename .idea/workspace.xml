@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution60 문제 파악" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution60 문제 파악">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution60.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/Programmers/Level0" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.Solution61">
     <configuration name="Bubble" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.Bubble" />
       <module name="BaekJoon" />
@@ -57,6 +64,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Level0.Solution61" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.Level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Solution61" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,6 +95,9 @@
       <workItem from="1677125778957" duration="188000" />
       <workItem from="1677125992903" duration="21567000" />
       <workItem from="1678399154731" duration="582000" />
+      <workItem from="1678666378694" duration="135000" />
+      <workItem from="1678768209144" duration="177000" />
+      <workItem from="1678768397548" duration="2979000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>

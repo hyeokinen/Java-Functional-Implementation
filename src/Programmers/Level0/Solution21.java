@@ -27,7 +27,7 @@ public class Solution21 {
         int num = scan.nextInt();
 
         for (int i=0; i < s2.length; i++){
-            s3 += s2[i].repeat(num);
+//            s3 += s2[i].repeat(num);
 
         }
         System.out.println(s3);
