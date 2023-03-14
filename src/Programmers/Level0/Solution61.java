@@ -9,5 +9,6 @@ public class Solution61 {
         int a = 420;
         int[] array = new int[]{};
 
+
     }
 }
