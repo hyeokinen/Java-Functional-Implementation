@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution파일 정리 및 Solution61 문제 파악">
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functional_Implementaion/Sort/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functional_Implementaion/Sort/Bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Sort_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functional_Implementaion/Sort/Sort_Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/test.java" beforeDir="false" />
-    </list>
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Java 쓰레드, 인터페이스 개념 정리" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +70,7 @@
       <workItem from="1678945895552" duration="1212000" />
       <workItem from="1679027627359" duration="638000" />
       <workItem from="1679028281153" duration="433000" />
-      <workItem from="1679035584714" duration="773000" />
+      <workItem from="1679035584714" duration="860000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -106,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678956662451</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="# Java 쓰레드, 인터페이스 개념 정리">
+      <created>1679042203522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679042203522</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +128,8 @@
     <MESSAGE value="# Solution50" />
     <MESSAGE value="# Solution60 문제 파악" />
     <MESSAGE value="# Solution파일 정리 및 Solution61 문제 파악" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution파일 정리 및 Solution61 문제 파악" />
+    <MESSAGE value="# Java 쓰레드, 인터페이스 개념 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Java 쓰레드, 인터페이스 개념 정리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
