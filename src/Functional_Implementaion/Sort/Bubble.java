@@ -1,4 +1,4 @@
-package Test;
+package Functional_Implementaion.Sort;
 
 public class Bubble {
 

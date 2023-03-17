@@ -1,4 +1,4 @@
-package Test;
+package Functional_Implementaion.Sort;
 
 import java.util.Scanner;
 
