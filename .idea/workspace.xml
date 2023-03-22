@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution62 반족문을 통해 int를 string으로 변환">
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution62 Solve">
+      <change afterPath="$PROJECT_DIR$/src/Functional_Implementaion/Stream/joining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution62.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1679043436719" duration="306000" />
       <workItem from="1679299381204" duration="3633000" />
       <workItem from="1679359629302" duration="9153000" />
-      <workItem from="1679445252476" duration="2112000" />
+      <workItem from="1679445252476" duration="4124000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679371685746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="# Solution62 Solve">
+      <created>1679447506383</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679447506383</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +167,8 @@
     <MESSAGE value="# Java 쓰레드 작성" />
     <MESSAGE value="# Solution62 List, split, toString 활용" />
     <MESSAGE value="# Solution62 반족문을 통해 int를 string으로 변환" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution62 반족문을 통해 int를 string으로 변환" />
+    <MESSAGE value="# Solution62 Solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution62 Solve" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
