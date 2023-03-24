@@ -9,7 +9,7 @@ public class Solution61 {
 
     // 리스트를 뒤집어서 한번 해보기
     public static void main(String[] args) {
-        int num = 100;
+        int num = 17;
         ArrayList<Integer> list = new ArrayList<>();
         ArrayList<Integer> list1 = new ArrayList<>();
         for (int i = num; i >= 2; i--){
@@ -26,11 +26,19 @@ public class Solution61 {
                     list1.add(2);
                     break;
                 }
+                else if (list.get(i) == 17){
+                    list1.add(17);
+                    break;
+                }
                 else if (list.get(i) % j != 0 && list.get(i) <=11){
                     list1.add(list.get(i));
                     break;
                 }
             }
+        }
+        int[] answer = new int[list1.size()];
+        for (int i = 0 ; i < list1.size(); i++){
+            answer[i] = list1.get(i);
         }
 
 
