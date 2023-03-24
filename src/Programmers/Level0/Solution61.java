@@ -1,7 +1,6 @@
 package Programmers.Level0;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 // 소인수분해
@@ -10,33 +9,32 @@ public class Solution61 {
 
     // 리스트를 뒤집어서 한번 해보기
     public static void main(String[] args) {
-        int num = 12;
+        int num = 100;
         ArrayList<Integer> list = new ArrayList<>();
-        ArrayList<String> str = new ArrayList<>();
+        ArrayList<Integer> list1 = new ArrayList<>();
         for (int i = num; i >= 2; i--){
             if (num % i == 0){
                 list.add(i);
             }
         }
-
-
         Collections.reverse(list);
-
 
         int a = 0;
         for (int i = 0; i < list.size(); i++){
-            for (int j = 2; j <= 100; j++){
-                if (list.get(i) % j == 0 ){
-                    list.remove(a);
+            for (int j = 2; j <= 2; j++){
+                if (list.get(i) == 2){
+                    list1.add(2);
+                    break;
+                }
+                else if (list.get(i) % j != 0 && list.get(i) <=11){
+                    list1.add(list.get(i));
+                    break;
                 }
             }
         }
 
 
-
-
-
-        System.out.println(list);
+        System.out.println(list1);
 
     }
 }
