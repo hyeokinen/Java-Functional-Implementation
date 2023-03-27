@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution61 소인수 분해 List와 소수 구하는 방식으로 풀이중">
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution61 소인수 분해 풀이">
+      <change afterPath="$PROJECT_DIR$/src/Functional_Implementaion/Hash/hashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution61.java" afterDir="false" />
     </list>
@@ -79,7 +80,8 @@
       <workItem from="1679359629302" duration="9153000" />
       <workItem from="1679445252476" duration="9343000" />
       <workItem from="1679528731120" duration="19691000" />
-      <workItem from="1679616063489" duration="4977000" />
+      <workItem from="1679616063489" duration="5883000" />
+      <workItem from="1679892238685" duration="11236000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -165,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679561898244</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="# Solution61 소인수 분해 풀이">
+      <created>1679643930149</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679643930149</updated>
+    </task>
+    <task id="LOCAL-00014" summary="# Solution61 소인수 분해 풀이">
+      <created>1679644170495</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679644170495</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +210,8 @@
     <MESSAGE value="# stream joining 학습" />
     <MESSAGE value="# Math.sqrt 루트값 구하는 법 학습" />
     <MESSAGE value="# Solution61 소인수 분해 List와 소수 구하는 방식으로 풀이중" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution61 소인수 분해 List와 소수 구하는 방식으로 풀이중" />
+    <MESSAGE value="# Solution61 소인수 분해 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution61 소인수 분해 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
