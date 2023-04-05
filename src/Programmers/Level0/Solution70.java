@@ -10,13 +10,28 @@ import java.util.*;
 public class Solution70 {
     public static void main(String[] args) {
         String s = "hello";
-        String[] array = s.split("");
-        HashSet<String> str = new HashSet<>();
-        for (int i = 0; i < array.length; i++){
-            str.add(array[i]);
+        List<String > array = Arrays.asList(s.split(""));
+        Collections.sort(array);
+        for (int i = 0; i < array.size()-1; i++ ){
+            if (Objects.equals(array.get(i), array.get(i + 1))){
+                array.remove(i);
+                array.remove(i+1);
+                i = 0;
+            }
         }
-        ArrayList<String> list = new ArrayList<>(str);
-        Collections.sort(list);
-        System.out.println(list);
+        System.out.println(array);
+
+
+        //        HashSet<String> str = new HashSet<>();
+//        for (int i = 0; i < array.length; i++){
+//            str.add(array[i]);
+//        }
+//
+//        ArrayList<String> list = new ArrayList<>(str);
+//        Collections.sort(list);
+//        System.out.println(list);
+
+
+
     }
 }
