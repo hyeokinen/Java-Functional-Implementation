@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution71 문제풀이 완료&#10;# list와 for문안에 조건문을 통해 나머지가 0인경우를 찾아 약수를 구해서 풀이">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution72.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution73.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,7 @@
       <workItem from="1680487828037" duration="716000" />
       <workItem from="1680565656089" duration="3484000" />
       <workItem from="1680652967725" duration="6760000" />
-      <workItem from="1680738848249" duration="2852000" />
+      <workItem from="1680738848249" duration="6639000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -274,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680741266123</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제">
+      <created>1680742061854</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1680742061854</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +323,8 @@
     <MESSAGE value="# Solution70 문제풀이 진행&#10;# List로 변환후 반복문 통해서 공통 문자 삭제 진행" />
     <MESSAGE value="# Solution70 문제풀이 완료&#10;# HashMap, getOrDefault를 사용하여 문제풀이" />
     <MESSAGE value="# Solution71 문제풀이 완료&#10;# list와 for문안에 조건문을 통해 나머지가 0인경우를 찾아 약수를 구해서 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution71 문제풀이 완료&#10;# list와 for문안에 조건문을 통해 나머지가 0인경우를 찾아 약수를 구해서 풀이" />
+    <MESSAGE value="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
