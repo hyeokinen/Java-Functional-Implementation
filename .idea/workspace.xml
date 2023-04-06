@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution70 문제풀이 진행&#10;# List로 변환후 반복문 통해서 공통 문자 삭제 진행">
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution70 문제풀이 완료&#10;# HashMap, getOrDefault를 사용하여 문제풀이">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution71.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/solution1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,8 @@
       <workItem from="1680156325824" duration="264000" />
       <workItem from="1680487828037" duration="716000" />
       <workItem from="1680565656089" duration="3484000" />
-      <workItem from="1680652967725" duration="6533000" />
+      <workItem from="1680652967725" duration="6760000" />
+      <workItem from="1680738848249" duration="1981000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -259,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680681971839</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="# Solution70 문제풀이 완료&#10;# HashMap, getOrDefault를 사용하여 문제풀이">
+      <created>1680684157741</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680684157741</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +308,8 @@
     <MESSAGE value="# Solution69 문제풀이&#10;# split, temp, join을 활용한 문제풀이" />
     <MESSAGE value="# Solution70 문제풀이 진행&#10;# HashSet, List사용, 공통 문자 삭제 미해결" />
     <MESSAGE value="# Solution70 문제풀이 진행&#10;# List로 변환후 반복문 통해서 공통 문자 삭제 진행" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution70 문제풀이 진행&#10;# List로 변환후 반복문 통해서 공통 문자 삭제 진행" />
+    <MESSAGE value="# Solution70 문제풀이 완료&#10;# HashMap, getOrDefault를 사용하여 문제풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution70 문제풀이 완료&#10;# HashMap, getOrDefault를 사용하여 문제풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
