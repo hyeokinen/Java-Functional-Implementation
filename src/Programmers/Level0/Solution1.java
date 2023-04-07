@@ -2,7 +2,7 @@ package Programmers.Level0;
 
 import java.util.Scanner;
 
-public class Solution1_plus {
+public class Solution1 {
     public int solution(int num1, int num2){
         int answer = (num1 + num2);
         return answer;
@@ -12,7 +12,7 @@ public class Solution1_plus {
         Scanner scan = new Scanner(System.in);
         int num1 = scan.nextInt();
         int num2 = scan.nextInt();
-        Solution1_plus solution = new Solution1_plus();
+        Solution1 solution = new Solution1();
 
         System.out.println(solution.solution(num1, num2));
     }
