@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution73.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution73 문제풀이 완료&#10;# 반복문 사용할때 꼭 1씩 증가가 아니라 조건에 맞게 증가할수 있도록 시야를 넓히자&#10;# equal을 통해서 간단하게 해결">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution74.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,8 @@
       <workItem from="1680487828037" duration="716000" />
       <workItem from="1680565656089" duration="3484000" />
       <workItem from="1680652967725" duration="6760000" />
-      <workItem from="1680738848249" duration="6639000" />
+      <workItem from="1680738848249" duration="6794000" />
+      <workItem from="1680826926427" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -281,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680742061854</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="# Solution73 문제풀이 완료&#10;# 반복문 사용할때 꼭 1씩 증가가 아니라 조건에 맞게 증가할수 있도록 시야를 넓히자&#10;# equal을 통해서 간단하게 해결">
+      <created>1680746277227</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1680746277227</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +308,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution50" />
     <MESSAGE value="# Solution60 문제 파악" />
     <MESSAGE value="# Solution파일 정리 및 Solution61 문제 파악" />
     <MESSAGE value="# Java 쓰레드, 인터페이스 개념 정리" />
@@ -324,7 +332,8 @@
     <MESSAGE value="# Solution70 문제풀이 완료&#10;# HashMap, getOrDefault를 사용하여 문제풀이" />
     <MESSAGE value="# Solution71 문제풀이 완료&#10;# list와 for문안에 조건문을 통해 나머지가 0인경우를 찾아 약수를 구해서 풀이" />
     <MESSAGE value="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제" />
+    <MESSAGE value="# Solution73 문제풀이 완료&#10;# 반복문 사용할때 꼭 1씩 증가가 아니라 조건에 맞게 증가할수 있도록 시야를 넓히자&#10;# equal을 통해서 간단하게 해결" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution73 문제풀이 완료&#10;# 반복문 사용할때 꼭 1씩 증가가 아니라 조건에 맞게 증가할수 있도록 시야를 넓히자&#10;# equal을 통해서 간단하게 해결" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
