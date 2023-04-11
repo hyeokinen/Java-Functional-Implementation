@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution77 문제풀이&#10;# substring사용하여 문자열 쪼갰다.&#10;# 시작점과 끝점의 규칙 파악중요">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution78.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution78 문제풀이&#10;# 두 점 사이의 거리 구하는 공식 사용 및 절대값 abs사용">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution79.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,8 @@
       <workItem from="1680738848249" duration="6794000" />
       <workItem from="1680826926427" duration="7735000" />
       <workItem from="1680847200628" duration="49000" />
-      <workItem from="1681085675569" duration="5647000" />
+      <workItem from="1681085675569" duration="5817000" />
+      <workItem from="1681173227332" duration="2831000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -319,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681089813340</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="# Solution78 문제풀이&#10;# 두 점 사이의 거리 구하는 공식 사용 및 절대값 abs사용">
+      <created>1681091462377</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1681091462377</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution62 List, split, toString 활용" />
     <MESSAGE value="# Solution62 반족문을 통해 int를 string으로 변환" />
     <MESSAGE value="# Solution62 Solve" />
     <MESSAGE value="# stream joining 학습" />
@@ -362,7 +369,8 @@
     <MESSAGE value="# Solution75 문제풀이&#10;# split나눈후에 반복문 조건으로 문제 해결" />
     <MESSAGE value="# Solution76 문제풀이&#10;# toLowerCase로 소문자로 변경, toCharArray를 통해 문자하나하나를 비교할수 있게 만들어 문제 풀이" />
     <MESSAGE value="# Solution77 문제풀이&#10;# substring사용하여 문자열 쪼갰다.&#10;# 시작점과 끝점의 규칙 파악중요" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution77 문제풀이&#10;# substring사용하여 문자열 쪼갰다.&#10;# 시작점과 끝점의 규칙 파악중요" />
+    <MESSAGE value="# Solution78 문제풀이&#10;# 두 점 사이의 거리 구하는 공식 사용 및 절대값 abs사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution78 문제풀이&#10;# 두 점 사이의 거리 구하는 공식 사용 및 절대값 abs사용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
