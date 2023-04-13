@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution81 문제파악&#10;# 자리수를 구해서 자리수마다 2의 제곱을 하면서 구하면될거같다.">
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution81 문제풀이&#10;# while문을 통한 자리수 구하기&#10;# 전제적인 알고리즘 문제흐름식 풀이">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution82.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Level0/Solution81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution81.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,7 @@
       <workItem from="1681173227332" duration="5217000" />
       <workItem from="1681287628690" duration="135000" />
       <workItem from="1681347637283" duration="126000" />
-      <workItem from="1681347780922" duration="8471000" />
+      <workItem from="1681347780922" duration="11052000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -353,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681287747956</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="# Solution81 문제풀이&#10;# while문을 통한 자리수 구하기&#10;# 전제적인 알고리즘 문제흐름식 풀이">
+      <created>1681360936078</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1681360936078</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,7 +378,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Math.sqrt 루트값 구하는 법 학습" />
     <MESSAGE value="# Solution61 소인수 분해 List와 소수 구하는 방식으로 풀이중" />
     <MESSAGE value="# Solution61 소인수 분해 풀이" />
     <MESSAGE value="# Solution61 소인수 분해 풀이&#10;Hashset을 활용한 문제해결" />
@@ -396,7 +402,8 @@
     <MESSAGE value="# Solution79 문제풀이&#10;# Hashmap과 getOrDefault메소드를 사용하여 문제풀이" />
     <MESSAGE value="# Solution80 문제풀이&#10;# 코드효율은 떨어지지만 지금까지 알고있는 지식을 동원해서 풀이" />
     <MESSAGE value="# Solution81 문제파악&#10;# 자리수를 구해서 자리수마다 2의 제곱을 하면서 구하면될거같다." />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution81 문제파악&#10;# 자리수를 구해서 자리수마다 2의 제곱을 하면서 구하면될거같다." />
+    <MESSAGE value="# Solution81 문제풀이&#10;# while문을 통한 자리수 구하기&#10;# 전제적인 알고리즘 문제흐름식 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution81 문제풀이&#10;# while문을 통한 자리수 구하기&#10;# 전제적인 알고리즘 문제흐름식 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
