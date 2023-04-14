@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution82 문제풀이&#10;# 규칙성을 찾아서 푸는 간단한 문제">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution83.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution83 문제풀이&#10;# 규칙을 찾으면 쉬운 문제&#10;# / , % 사용하여서 문제풀이">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution84.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,27 +34,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/Users/captain-kim/Desktop/algorithm/Study/BaekJoon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/captain-kim/Desktop/algorithm/Study/BaekJoon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Programmers/Level0" />
@@ -99,7 +99,8 @@
       <workItem from="1681173227332" duration="5217000" />
       <workItem from="1681287628690" duration="135000" />
       <workItem from="1681347637283" duration="126000" />
-      <workItem from="1681347780922" duration="16724000" />
+      <workItem from="1681347780922" duration="16908000" />
+      <workItem from="1681432364623" duration="3442000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -367,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681365057409</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="# Solution83 문제풀이&#10;# 규칙을 찾으면 쉬운 문제&#10;# / , % 사용하여서 문제풀이">
+      <created>1681370992571</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1681370992571</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution61 소인수 분해 풀이" />
     <MESSAGE value="# Solution61 소인수 분해 풀이&#10;Hashset을 활용한 문제해결" />
     <MESSAGE value="# Solution63 List와 자료변환을 활용한 문제풀이." />
     <MESSAGE value="# Solution64 문자열 쪼개서 Set 사용&#10;# join을 활용하여 쪼갠 문자 다시 합침" />
@@ -410,7 +417,8 @@
     <MESSAGE value="# Solution81 문제파악&#10;# 자리수를 구해서 자리수마다 2의 제곱을 하면서 구하면될거같다." />
     <MESSAGE value="# Solution81 문제풀이&#10;# while문을 통한 자리수 구하기&#10;# 전제적인 알고리즘 문제흐름식 풀이" />
     <MESSAGE value="# Solution82 문제풀이&#10;# 규칙성을 찾아서 푸는 간단한 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution82 문제풀이&#10;# 규칙성을 찾아서 푸는 간단한 문제" />
+    <MESSAGE value="# Solution83 문제풀이&#10;# 규칙을 찾으면 쉬운 문제&#10;# / , % 사용하여서 문제풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution83 문제풀이&#10;# 규칙을 찾으면 쉬운 문제&#10;# / , % 사용하여서 문제풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
