@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution85 문제풀이&#10;# 반복문과 조건문의 규칙활용해서 간단하게 풀수있다.">
-      <change afterPath="$PROJECT_DIR$/src/Functional_Implementaion/Algorithm/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution86.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Rank 알고리즘&#10;# 랭크 알고리즘 학습">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution87.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,8 @@
       <workItem from="1681287628690" duration="135000" />
       <workItem from="1681347637283" duration="126000" />
       <workItem from="1681347780922" duration="16908000" />
-      <workItem from="1681432364623" duration="14475000" />
+      <workItem from="1681432364623" duration="14715000" />
+      <workItem from="1681688990945" duration="4601000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -390,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681445915497</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="# Solution86 문제풀이&#10;# Rank 알고리즘을 활용하여 반복문과 조건문을 통해 등수를 구함">
+      <created>1681457529926</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1681457529926</updated>
+    </task>
+    <task id="LOCAL-00043" summary="# Rank 알고리즘&#10;# 랭크 알고리즘 학습">
+      <created>1681457558122</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1681457558122</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,8 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution64 문자열 쪼개서 Set 사용&#10;# join을 활용하여 쪼갠 문자 다시 합침" />
-    <MESSAGE value="# Solution66 문제풀이&#10;# 반복문과 List, 절대값을 활용하여 값 추출후 근사값  추출" />
     <MESSAGE value="# Solution67 문제풀이&#10;# split, toString으로 특정 문자 및 숫자 파악" />
     <MESSAGE value="# Solution68 문제 파악" />
     <MESSAGE value="# Solution68 문제풀이&#10;# replace 메소드를 사용하여 문자 숫자로 대체 후 타입 변경" />
@@ -433,7 +445,9 @@
     <MESSAGE value="# Solution83 문제풀이&#10;# 규칙을 찾으면 쉬운 문제&#10;# / , % 사용하여서 문제풀이" />
     <MESSAGE value="# Solution84 문제풀이&#10;# toLowcase로 소문자로 변경, replaceAll로 특정문자 삭제" />
     <MESSAGE value="# Solution85 문제풀이&#10;# 반복문과 조건문의 규칙활용해서 간단하게 풀수있다." />
-    <option name="LAST_COMMIT_MESSAGE" value="# Solution85 문제풀이&#10;# 반복문과 조건문의 규칙활용해서 간단하게 풀수있다." />
+    <MESSAGE value="# Solution86 문제풀이&#10;# Rank 알고리즘을 활용하여 반복문과 조건문을 통해 등수를 구함" />
+    <MESSAGE value="# Rank 알고리즘&#10;# 랭크 알고리즘 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Rank 알고리즘&#10;# 랭크 알고리즘 학습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
