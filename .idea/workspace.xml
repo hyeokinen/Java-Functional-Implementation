@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Rank 알고리즘&#10;# 랭크 알고리즘 학습">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Level0/Solution87.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# Solution87 문제풀이&#10;# 조건문안에 타입 변환을 사용하여 특정 조건문을 적용시킬수 있다.">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/소수판별.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,8 @@
       <workItem from="1681347637283" duration="126000" />
       <workItem from="1681347780922" duration="16908000" />
       <workItem from="1681432364623" duration="14715000" />
-      <workItem from="1681688990945" duration="4601000" />
+      <workItem from="1681688990945" duration="4930000" />
+      <workItem from="1681719084031" duration="861000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -404,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681457558122</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="# Solution87 문제풀이&#10;# 조건문안에 타입 변환을 사용하여 특정 조건문을 적용시킬수 있다.">
+      <created>1681694715226</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1681694715226</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution67 문제풀이&#10;# split, toString으로 특정 문자 및 숫자 파악" />
     <MESSAGE value="# Solution68 문제 파악" />
     <MESSAGE value="# Solution68 문제풀이&#10;# replace 메소드를 사용하여 문자 숫자로 대체 후 타입 변경" />
     <MESSAGE value="# Solution69 문제풀이&#10;# split, temp, join을 활용한 문제풀이" />
@@ -447,7 +454,8 @@
     <MESSAGE value="# Solution85 문제풀이&#10;# 반복문과 조건문의 규칙활용해서 간단하게 풀수있다." />
     <MESSAGE value="# Solution86 문제풀이&#10;# Rank 알고리즘을 활용하여 반복문과 조건문을 통해 등수를 구함" />
     <MESSAGE value="# Rank 알고리즘&#10;# 랭크 알고리즘 학습" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Rank 알고리즘&#10;# 랭크 알고리즘 학습" />
+    <MESSAGE value="# Solution87 문제풀이&#10;# 조건문안에 타입 변환을 사용하여 특정 조건문을 적용시킬수 있다." />
+    <option name="LAST_COMMIT_MESSAGE" value="# Solution87 문제풀이&#10;# 조건문안에 타입 변환을 사용하여 특정 조건문을 적용시킬수 있다." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
