@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# 정보처리기사 알고리즘&#10;# 소수판별 알고리즘 이해">
-      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/sequence1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# sequence1 문제풀이&#10;# 반복문을 사용하여 규칙 해결">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/seuence2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <workItem from="1681432364623" duration="14715000" />
       <workItem from="1681688990945" duration="4930000" />
       <workItem from="1681719084031" duration="1096000" />
-      <workItem from="1681892491435" duration="309000" />
+      <workItem from="1681892491435" duration="1086000" />
     </task>
     <task id="LOCAL-00001" summary="# Solution50">
       <created>1677126469363</created>
@@ -420,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681720181555</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="# sequence1 문제풀이&#10;# 반복문을 사용하여 규칙 해결">
+      <created>1681892917952</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1681892917952</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution68 문제풀이&#10;# replace 메소드를 사용하여 문자 숫자로 대체 후 타입 변경" />
     <MESSAGE value="# Solution69 문제풀이&#10;# split, temp, join을 활용한 문제풀이" />
     <MESSAGE value="# Solution70 문제풀이 진행&#10;# HashSet, List사용, 공통 문자 삭제 미해결" />
     <MESSAGE value="# Solution70 문제풀이 진행&#10;# List로 변환후 반복문 통해서 공통 문자 삭제 진행" />
@@ -463,7 +468,8 @@
     <MESSAGE value="# Rank 알고리즘&#10;# 랭크 알고리즘 학습" />
     <MESSAGE value="# Solution87 문제풀이&#10;# 조건문안에 타입 변환을 사용하여 특정 조건문을 적용시킬수 있다." />
     <MESSAGE value="# 정보처리기사 알고리즘&#10;# 소수판별 알고리즘 이해" />
-    <option name="LAST_COMMIT_MESSAGE" value="# 정보처리기사 알고리즘&#10;# 소수판별 알고리즘 이해" />
+    <MESSAGE value="# sequence1 문제풀이&#10;# 반복문을 사용하여 규칙 해결" />
+    <option name="LAST_COMMIT_MESSAGE" value="# sequence1 문제풀이&#10;# 반복문을 사용하여 규칙 해결" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
