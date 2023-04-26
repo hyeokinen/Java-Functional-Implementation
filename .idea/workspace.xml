@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# forType 반복문 타입별 학습&#10;# 반복문이 언제끝나는지 범위 잘 파악하기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Engineer_Information_Processing/seuence2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/seuence2.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# sequence2 수열 문제 풀이&#10;# 조건문을 사용하여 특정 조건시 +,-를 계산">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/sequence3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,14 +107,7 @@
       <workItem from="1682035707275" duration="8755000" />
       <workItem from="1682294508520" duration="5965000" />
       <workItem from="1682382661192" duration="8859000" />
-      <workItem from="1682466999304" duration="2622000" />
-    </task>
-    <task id="LOCAL-00006" summary="# Java 쓰레드 작성">
-      <created>1679043741729</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1679043741729</updated>
+      <workItem from="1682466999304" duration="3214000" />
     </task>
     <task id="LOCAL-00007" summary="# Solution62 List, split, toString 활용">
       <created>1679302218486</created>
@@ -453,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682474389102</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="# sequence2 수열 문제 풀이&#10;# 조건문을 사용하여 특정 조건시 +,-를 계산">
+      <created>1682485818683</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1682485818683</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution75 문제풀이&#10;# split나눈후에 반복문 조건으로 문제 해결" />
     <MESSAGE value="# Solution76 문제풀이&#10;# toLowerCase로 소문자로 변경, toCharArray를 통해 문자하나하나를 비교할수 있게 만들어 문제 풀이" />
     <MESSAGE value="# Solution77 문제풀이&#10;# substring사용하여 문자열 쪼갰다.&#10;# 시작점과 끝점의 규칙 파악중요" />
     <MESSAGE value="# Solution78 문제풀이&#10;# 두 점 사이의 거리 구하는 공식 사용 및 절대값 abs사용" />
@@ -496,7 +494,8 @@
     <MESSAGE value="# postModification 전치수식&#10;# 결과값이 거짓이 된거 까지 계산해서 출력" />
     <MESSAGE value="# postModification 전치수식&#10;# 출력시 자료형 표현 방식에 따른 결과값 학습" />
     <MESSAGE value="# forType 반복문 타입별 학습&#10;# 반복문이 언제끝나는지 범위 잘 파악하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="# forType 반복문 타입별 학습&#10;# 반복문이 언제끝나는지 범위 잘 파악하기" />
+    <MESSAGE value="# sequence2 수열 문제 풀이&#10;# 조건문을 사용하여 특정 조건시 +,-를 계산" />
+    <option name="LAST_COMMIT_MESSAGE" value="# sequence2 수열 문제 풀이&#10;# 조건문을 사용하여 특정 조건시 +,-를 계산" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
