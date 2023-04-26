@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# postModification 전치수식&#10;# 결과값이 거짓이 된거 까지 계산해서 출력">
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# postModification 전치수식&#10;# 출력시 자료형 표현 방식에 따른 결과값 학습">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/forType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/formatString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Engineer_Information_Processing/postModification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/postModification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,14 +108,8 @@
       <workItem from="1681950656729" duration="1268000" />
       <workItem from="1682035707275" duration="8755000" />
       <workItem from="1682294508520" duration="5965000" />
-      <workItem from="1682382661192" duration="3850000" />
-    </task>
-    <task id="LOCAL-00004" summary="# Solution파일 정리 및 Solution61 문제 파악">
-      <created>1678956662451</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1678956662451</updated>
+      <workItem from="1682382661192" duration="8859000" />
+      <workItem from="1682466999304" duration="1570000" />
     </task>
     <task id="LOCAL-00005" summary="# Java 쓰레드, 인터페이스 개념 정리">
       <created>1679042203522</created>
@@ -452,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682386836631</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="# postModification 전치수식&#10;# 출력시 자료형 표현 방식에 따른 결과값 학습">
+      <created>1682402452797</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1682402452797</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution73 문제풀이 완료&#10;# 반복문 사용할때 꼭 1씩 증가가 아니라 조건에 맞게 증가할수 있도록 시야를 넓히자&#10;# equal을 통해서 간단하게 해결" />
     <MESSAGE value="# Solution74 문제풀이 완료&#10;# 정수타입 변경후 split활용 배열에 담아서 반복문과 contain활용하여 풀이" />
     <MESSAGE value="# Solution75 문제풀이&#10;# split나눈후에 반복문 조건으로 문제 해결" />
     <MESSAGE value="# Solution76 문제풀이&#10;# toLowerCase로 소문자로 변경, toCharArray를 통해 문자하나하나를 비교할수 있게 만들어 문제 풀이" />
@@ -495,7 +496,8 @@
     <MESSAGE value="# 비트 연산자 개념 공부" />
     <MESSAGE value="# 비트 연산자 및 정보처리기사 실습" />
     <MESSAGE value="# postModification 전치수식&#10;# 결과값이 거짓이 된거 까지 계산해서 출력" />
-    <option name="LAST_COMMIT_MESSAGE" value="# postModification 전치수식&#10;# 결과값이 거짓이 된거 까지 계산해서 출력" />
+    <MESSAGE value="# postModification 전치수식&#10;# 출력시 자료형 표현 방식에 따른 결과값 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="# postModification 전치수식&#10;# 출력시 자료형 표현 방식에 따른 결과값 학습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
