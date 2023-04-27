@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# sequence4 수열 문제풀이&#10;# 반복문을 빠져나갈때 hap을 꼭 초기화 해줘야 한다.">
-      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/sequence5.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# sequence5 수열 문제풀이&#10;# 피보나치 수열이지만 초기값으 지정해서 풀이">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/decimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,14 +108,8 @@
       <workItem from="1682035707275" duration="8755000" />
       <workItem from="1682294508520" duration="5965000" />
       <workItem from="1682382661192" duration="8859000" />
-      <workItem from="1682466999304" duration="7224000" />
-    </task>
-    <task id="LOCAL-00009" summary="# Solution62 Solve">
-      <created>1679447506383</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1679447506383</updated>
+      <workItem from="1682466999304" duration="7844000" />
+      <workItem from="1682554991756" duration="4262000" />
     </task>
     <task id="LOCAL-00010" summary="# stream joining 학습">
       <created>1679451561361</created>
@@ -453,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682488250621</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="# sequence5 수열 문제풀이&#10;# 피보나치 수열이지만 초기값으 지정해서 풀이">
+      <created>1682496421458</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1682496421459</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution78 문제풀이&#10;# 두 점 사이의 거리 구하는 공식 사용 및 절대값 abs사용" />
     <MESSAGE value="# Solution79 문제풀이&#10;# Hashmap과 getOrDefault메소드를 사용하여 문제풀이" />
     <MESSAGE value="# Solution80 문제풀이&#10;# 코드효율은 떨어지지만 지금까지 알고있는 지식을 동원해서 풀이" />
     <MESSAGE value="# Solution81 문제파악&#10;# 자리수를 구해서 자리수마다 2의 제곱을 하면서 구하면될거같다." />
@@ -496,7 +496,8 @@
     <MESSAGE value="# sequence2 수열 문제 풀이&#10;# 조건문을 사용하여 특정 조건시 +,-를 계산" />
     <MESSAGE value="# sequence3 수열 문제풀이&#10;# 등차수열 임으로 증가값과 전 수열의 차이를 잘 파악해야한다." />
     <MESSAGE value="# sequence4 수열 문제풀이&#10;# 반복문을 빠져나갈때 hap을 꼭 초기화 해줘야 한다." />
-    <option name="LAST_COMMIT_MESSAGE" value="# sequence4 수열 문제풀이&#10;# 반복문을 빠져나갈때 hap을 꼭 초기화 해줘야 한다." />
+    <MESSAGE value="# sequence5 수열 문제풀이&#10;# 피보나치 수열이지만 초기값으 지정해서 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="# sequence5 수열 문제풀이&#10;# 피보나치 수열이지만 초기값으 지정해서 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
