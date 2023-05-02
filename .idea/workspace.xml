@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# decimalHap 문제 풀이&#10;# 조건문과 반복문을 활용하여 소수만 판별후 전체합을 구했다.">
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# decimalHap 문제 보완&#10;# while 문을 통해서 반복 조건 단순화">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/GCD_LCM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Engineer_Information_Processing/decimalHap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/decimalHap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,14 +111,7 @@
       <workItem from="1682466999304" duration="7844000" />
       <workItem from="1682554991756" duration="6390000" />
       <workItem from="1682639734029" duration="2442000" />
-      <workItem from="1682986260615" duration="11958000" />
-    </task>
-    <task id="LOCAL-00016" summary="# Solution63 List와 자료변환을 활용한 문제풀이.">
-      <created>1679968041020</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1679968041020</updated>
+      <workItem from="1682986260615" duration="13298000" />
     </task>
     <task id="LOCAL-00017" summary="# Solution64 문자열 쪼개서 Set 사용&#10;# join을 활용하여 쪼갠 문자 다시 합침">
       <created>1679976638879</created>
@@ -456,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683006432640</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="# decimalHap 문제 보완&#10;# while 문을 통해서 반복 조건 단순화">
+      <created>1683007335460</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1683007335460</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution82 문제풀이&#10;# 규칙성을 찾아서 푸는 간단한 문제" />
     <MESSAGE value="# Solution83 문제풀이&#10;# 규칙을 찾으면 쉬운 문제&#10;# / , % 사용하여서 문제풀이" />
     <MESSAGE value="# Solution84 문제풀이&#10;# toLowcase로 소문자로 변경, replaceAll로 특정문자 삭제" />
     <MESSAGE value="# Solution85 문제풀이&#10;# 반복문과 조건문의 규칙활용해서 간단하게 풀수있다." />
@@ -499,7 +498,8 @@
     <MESSAGE value="# decimal 소수판별 보완&#10;# 변수 선언후 조건에 맞을시에만 소수판별" />
     <MESSAGE value="# sqrtDecimal 제곱근 활용 소수판별&#10;# 제곱근을 활용하여 소수를 판별할수 있다." />
     <MESSAGE value="# decimalHap 문제 풀이&#10;# 조건문과 반복문을 활용하여 소수만 판별후 전체합을 구했다." />
-    <option name="LAST_COMMIT_MESSAGE" value="# decimalHap 문제 풀이&#10;# 조건문과 반복문을 활용하여 소수만 판별후 전체합을 구했다." />
+    <MESSAGE value="# decimalHap 문제 보완&#10;# while 문을 통해서 반복 조건 단순화" />
+    <option name="LAST_COMMIT_MESSAGE" value="# decimalHap 문제 보완&#10;# while 문을 통해서 반복 조건 단순화" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
