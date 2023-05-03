@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# integerFactorization 문제 접근&#10;# 20 이외의 다른 수를 입력했을때 문제 풀이 작성">
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# integerFactorization 수정&#10;# for문 안에 while 반복문을 활용하여 알고리즘을 해결했다.">
+      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/numberConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +112,7 @@
       <workItem from="1682554991756" duration="6390000" />
       <workItem from="1682639734029" duration="2442000" />
       <workItem from="1682986260615" duration="20294000" />
-      <workItem from="1683071480853" duration="5049000" />
-    </task>
-    <task id="LOCAL-00020" summary="# Solution68 문제 파악">
-      <created>1680140527638</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1680140527638</updated>
+      <workItem from="1683071480853" duration="7936000" />
     </task>
     <task id="LOCAL-00021" summary="# Solution68 문제풀이&#10;# replace 메소드를 사용하여 문자 숫자로 대체 후 타입 변경">
       <created>1680488203460</created>
@@ -457,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683015859232</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="# integerFactorization 수정&#10;# for문 안에 while 반복문을 활용하여 알고리즘을 해결했다.">
+      <created>1683080339674</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1683080339674</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# Solution86 문제풀이&#10;# Rank 알고리즘을 활용하여 반복문과 조건문을 통해 등수를 구함" />
     <MESSAGE value="# Rank 알고리즘&#10;# 랭크 알고리즘 학습" />
     <MESSAGE value="# Solution87 문제풀이&#10;# 조건문안에 타입 변환을 사용하여 특정 조건문을 적용시킬수 있다." />
     <MESSAGE value="# 정보처리기사 알고리즘&#10;# 소수판별 알고리즘 이해" />
@@ -500,7 +499,8 @@
     <MESSAGE value="# GCD_LCM 알고리즘 문제 풀이&#10;# 최대공약수, 최소공배수의 개념을 파악하고 알고리즘 풀이" />
     <MESSAGE value="# divisor 알고리즘 문제풀이&#10;# 약수는 나머지가 0인 수의 모임 정의를 토대로 간단하게 풀이" />
     <MESSAGE value="# integerFactorization 문제 접근&#10;# 20 이외의 다른 수를 입력했을때 문제 풀이 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="# integerFactorization 문제 접근&#10;# 20 이외의 다른 수를 입력했을때 문제 풀이 작성" />
+    <MESSAGE value="# integerFactorization 수정&#10;# for문 안에 while 반복문을 활용하여 알고리즘을 해결했다." />
+    <option name="LAST_COMMIT_MESSAGE" value="# integerFactorization 수정&#10;# for문 안에 while 반복문을 활용하여 알고리즘을 해결했다." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -509,36 +509,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/integerFactorization.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
