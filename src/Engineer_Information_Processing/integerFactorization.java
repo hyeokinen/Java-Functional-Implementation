@@ -21,21 +21,25 @@ public class integerFactorization {
         System.out.println("수를 입력하세요.");
 
         List<Integer> list = new ArrayList<>();
+        // 입력할 수
         int num = scan.nextInt();
-        while (num > 0){
-            int sqrt = (int) Math.sqrt(num);
-            for (int i = 2; i <= sqrt; i++){
-                if (num%i == 0 ){
+        // 입력한 수의 제곱근
+        int sqrt = (int)Math.sqrt(num);
+
+        boolean a = true;
+
+        // while 에서 계산을 하고 조건이 맞지 않으면 다시 반복문을 수행하지만
+        // 나누기로 초기화가 되었기 때문에 다시 num의 값에 계산된 값이 들어간다.
+            for (int i = 2; i <= num; i++){
+                if (num % i == 0){
+                    while (num %i == 0){
+                        num /= i;
+                    }
                     list.add(i);
-                    num /= i;
-                    break;
-                }
-                if (i > sqrt){
-                    list.add(num);
-                    num = 0;
                 }
             }
-        }
+
+
         System.out.println(list);
 
     }
