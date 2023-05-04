@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# numberConversion2 알고리즘 풀이&#10;# 2진수 -&gt; 10진수 변환 2진수 값을 문자로 받아서 split으로 쪼갠뒤 타입 변경후 문제 처리">
-      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# complement 알고리즘 진행&#10;# 보수 알고리즘 1의 보수 구하기 진행">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +112,8 @@
       <workItem from="1682554991756" duration="6390000" />
       <workItem from="1682639734029" duration="2442000" />
       <workItem from="1682986260615" duration="20294000" />
-      <workItem from="1683071480853" duration="18210000" />
-    </task>
-    <task id="LOCAL-00023" summary="# Solution70 문제풀이 진행&#10;# HashSet, List사용, 공통 문자 삭제 미해결">
-      <created>1680595284019</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1680595284019</updated>
+      <workItem from="1683071480853" duration="18927000" />
+      <workItem from="1683157097143" duration="6682000" />
     </task>
     <task id="LOCAL-00024" summary="# Solution70 문제풀이 진행&#10;# List로 변환후 반복문 통해서 공통 문자 삭제 진행">
       <created>1680681971839</created>
@@ -457,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683100443769</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="# complement 알고리즘 진행&#10;# 보수 알고리즘 1의 보수 구하기 진행">
+      <created>1683104475956</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1683104475956</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# 정보처리기사 알고리즘&#10;# 소수판별 알고리즘 이해" />
     <MESSAGE value="# sequence1 문제풀이&#10;# 반복문을 사용하여 규칙 해결" />
     <MESSAGE value="# sequence2 문제파악" />
     <MESSAGE value="# Solution88 문제풀이&#10;# 조건문을 이용해서 문제풀이" />
@@ -500,7 +500,8 @@
     <MESSAGE value="# integerFactorization 수정&#10;# for문 안에 while 반복문을 활용하여 알고리즘을 해결했다." />
     <MESSAGE value="# numberConversion 알고리즘 풀이&#10;# 10진수 -&gt; 2진수 변환 반복, 조건문으로 풀이" />
     <MESSAGE value="# numberConversion2 알고리즘 풀이&#10;# 2진수 -&gt; 10진수 변환 2진수 값을 문자로 받아서 split으로 쪼갠뒤 타입 변경후 문제 처리" />
-    <option name="LAST_COMMIT_MESSAGE" value="# numberConversion2 알고리즘 풀이&#10;# 2진수 -&gt; 10진수 변환 2진수 값을 문자로 받아서 split으로 쪼갠뒤 타입 변경후 문제 처리" />
+    <MESSAGE value="# complement 알고리즘 진행&#10;# 보수 알고리즘 1의 보수 구하기 진행" />
+    <option name="LAST_COMMIT_MESSAGE" value="# complement 알고리즘 진행&#10;# 보수 알고리즘 1의 보수 구하기 진행" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -509,6 +510,31 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Engineer_Information_Processing/complement.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
