@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# complement 알고리즘 풀이&#10;# 2의 보수 알고리즘 풀이 완료">
-      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/selectionSort.java" afterDir="false" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# selectionSort 문제 파악">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,13 +113,7 @@
       <workItem from="1682986260615" duration="20294000" />
       <workItem from="1683071480853" duration="18927000" />
       <workItem from="1683157097143" duration="10503000" />
-    </task>
-    <task id="LOCAL-00026" summary="# Solution71 문제풀이 완료&#10;# list와 for문안에 조건문을 통해 나머지가 0인경우를 찾아 약수를 구해서 풀이">
-      <created>1680741266123</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1680741266123</updated>
+      <workItem from="1683503094452" duration="1211000" />
     </task>
     <task id="LOCAL-00027" summary="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제">
       <created>1680742061854</created>
@@ -458,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683166387776</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="# selectionSort 문제 파악">
+      <created>1683508950251</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1683508950251</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# sequence2 문제파악" />
     <MESSAGE value="# Solution88 문제풀이&#10;# 조건문을 이용해서 문제풀이" />
     <MESSAGE value="# Solution89 문제파악" />
     <MESSAGE value="# 비트 연산자 개념 공부" />
@@ -501,7 +500,8 @@
     <MESSAGE value="# numberConversion2 알고리즘 풀이&#10;# 2진수 -&gt; 10진수 변환 2진수 값을 문자로 받아서 split으로 쪼갠뒤 타입 변경후 문제 처리" />
     <MESSAGE value="# complement 알고리즘 진행&#10;# 보수 알고리즘 1의 보수 구하기 진행" />
     <MESSAGE value="# complement 알고리즘 풀이&#10;# 2의 보수 알고리즘 풀이 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="# complement 알고리즘 풀이&#10;# 2의 보수 알고리즘 풀이 완료" />
+    <MESSAGE value="# selectionSort 문제 파악" />
+    <option name="LAST_COMMIT_MESSAGE" value="# selectionSort 문제 파악" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
