@@ -114,13 +114,8 @@
       <workItem from="1683071480853" duration="18927000" />
       <workItem from="1683157097143" duration="10503000" />
       <workItem from="1683503094452" duration="1211000" />
-    </task>
-    <task id="LOCAL-00027" summary="# Solution72 문제풀이 완료&#10;# 기초를 묻는 쉬운 문제">
-      <created>1680742061854</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1680742061854</updated>
+      <workItem from="1683592279304" duration="618000" />
+      <workItem from="1683675962772" duration="503000" />
     </task>
     <task id="LOCAL-00028" summary="# Solution73 문제풀이 완료&#10;# 반복문 사용할때 꼭 1씩 증가가 아니라 조건에 맞게 증가할수 있도록 시야를 넓히자&#10;# equal을 통해서 간단하게 해결">
       <created>1680746277227</created>
@@ -458,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683508950251</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="# selectionSort 문제 파악">
+      <created>1683608742717</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1683608742720</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
