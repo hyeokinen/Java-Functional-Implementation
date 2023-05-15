@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# selectionSort 선택정렬 알고리즘 풀이" />
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# selectionSort 선택정렬 알고리즘 풀이">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,20 +117,7 @@
       <workItem from="1683592279304" duration="618000" />
       <workItem from="1683675962772" duration="3178000" />
       <workItem from="1683763219782" duration="1904000" />
-    </task>
-    <task id="LOCAL-00030" summary="# Solution75 문제풀이&#10;# split나눈후에 반복문 조건으로 문제 해결">
-      <created>1680846341694</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1680846341694</updated>
-    </task>
-    <task id="LOCAL-00031" summary="# Solution76 문제풀이&#10;# toLowerCase로 소문자로 변경, toCharArray를 통해 문자하나하나를 비교할수 있게 만들어 문제 풀이">
-      <created>1680847136680</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1680847136680</updated>
+      <workItem from="1683848178041" duration="2340000" />
     </task>
     <task id="LOCAL-00032" summary="# Solution77 문제풀이&#10;# substring사용하여 문자열 쪼갰다.&#10;# 시작점과 끝점의 규칙 파악중요">
       <created>1681089813340</created>
@@ -459,7 +448,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683765928417</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="# selectionSort 선택정렬 알고리즘 풀이">
+      <created>1683848605399</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1683848605399</updated>
+    </task>
+    <task id="LOCAL-00080" summary="# selectionSort 선택정렬 알고리즘 풀이">
+      <created>1683848629678</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1683848629678</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
