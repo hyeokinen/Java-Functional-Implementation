@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# selectionSort 선택정렬 알고리즘 풀이">
-      <change afterPath="$PROJECT_DIR$/src/Engineer_Information_Processing/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# selectionSort 선택정렬 알고리즘 풀이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +119,7 @@
       <workItem from="1684108843331" duration="1796000" />
       <workItem from="1684193978333" duration="597000" />
       <workItem from="1684196860850" duration="2910000" />
+      <workItem from="1684280948678" duration="596000" />
     </task>
     <task id="LOCAL-00033" summary="# Solution78 문제풀이&#10;# 두 점 사이의 거리 구하는 공식 사용 및 절대값 abs사용">
       <created>1681091462377</created>
