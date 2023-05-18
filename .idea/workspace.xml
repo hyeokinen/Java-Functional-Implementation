@@ -122,13 +122,7 @@
       <workItem from="1684193978333" duration="597000" />
       <workItem from="1684196860850" duration="2910000" />
       <workItem from="1684280948678" duration="1822000" />
-    </task>
-    <task id="LOCAL-00034" summary="# Solution79 문제풀이&#10;# Hashmap과 getOrDefault메소드를 사용하여 문제풀이">
-      <created>1681177114858</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1681177114858</updated>
+      <workItem from="1684367602274" duration="1797000" />
     </task>
     <task id="LOCAL-00035" summary="# Solution80 문제풀이&#10;# 코드효율은 떨어지지만 지금까지 알고있는 지식을 동원해서 풀이">
       <created>1681179193834</created>
@@ -466,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684285234004</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="# selectionSort 선택정렬 알고리즘 풀이">
+      <created>1684368491870</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1684368491870</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
