@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# selectionSort 선택정렬 알고리즘 풀이">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f7e5eff-a902-45a0-acbd-f4d2d70a02ea" name="Changes" comment="# selectionSort 선택정렬 알고리즘 풀이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,13 +121,7 @@
       <workItem from="1684196860850" duration="2910000" />
       <workItem from="1684280948678" duration="1822000" />
       <workItem from="1684367602274" duration="1797000" />
-    </task>
-    <task id="LOCAL-00035" summary="# Solution80 문제풀이&#10;# 코드효율은 떨어지지만 지금까지 알고있는 지식을 동원해서 풀이">
-      <created>1681179193834</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1681179193834</updated>
+      <workItem from="1684454339097" duration="632000" />
     </task>
     <task id="LOCAL-00036" summary="# Solution81 문제파악&#10;# 자리수를 구해서 자리수마다 2의 제곱을 하면서 구하면될거같다.">
       <created>1681287747956</created>
@@ -467,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684368491870</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="# selectionSort 선택정렬 알고리즘 풀이">
+      <created>1684454357655</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1684454357655</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
