@@ -34,6 +34,7 @@ public class complement {
             twoComplement[i] = oneComplement[i];
         }
 
+
         // 2의 보수 구하기
         twoComplement[intArray.length - 1] = twoComplement[intArray.length - 1] + 1;
         for (int i = intArray.length - 1; i >= 0; i--) {
@@ -53,7 +54,7 @@ public class complement {
         for (int i = 0; i < intArray.length; i++) {
             System.out.print(twoComplement[i] + " ");
         }
-
+        
 
     }
 }
